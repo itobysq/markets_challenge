@@ -64,6 +64,6 @@ thrift==0.9.3
 thriftpy==0.3.9
 traitlets==4.3.2
 typing==3.6.2
-urllib3==1.22
+urllib3==1.26.5
 wcwidth==0.1.7
 yubikey-manager==0.4.5
